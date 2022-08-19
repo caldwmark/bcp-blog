@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Bear Country Publishing`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: ``,
+      summary: ``,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Matters of public interest for news, educational, and entertainment purposes`,
+    siteUrl: `https://netlify.bearcountrypublishing.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: ``,
     },
   },
   plugins: [
@@ -31,6 +31,13 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          { 
+            resolve: `gatsby-remark-embed-youtube`,
+            options: {
+              width: 800,
+              height: 450
+            }
+          },
           {
             resolve: `gatsby-remark-images`,
             options: {

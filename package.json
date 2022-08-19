@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "bcp-blog",
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
@@ -14,6 +14,7 @@
     "gatsby-plugin-manifest": "^4.21.0",
     "gatsby-plugin-sharp": "^4.21.0",
     "gatsby-remark-copy-linked-files": "^5.21.0",
+    "gatsby-remark-embed-youtube": "^0.0.7",
     "gatsby-remark-images": "^6.21.0",
     "gatsby-remark-prismjs": "^6.21.0",
     "gatsby-remark-responsive-iframe": "^5.21.0",
