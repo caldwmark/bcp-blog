@@ -9,6 +9,8 @@ categories: [Activism]
 
 Stanley finds a whole nest of female tyrants.  This is a must see.   He does not back down from these clowns.  
 
+This is only a portion of the original video.  To see more check out the link below.
+
 - [Original Video](https://youtu.be/szqhGvXA2DI)
 - [Stanley Hughes Channel](https://www.youtube.com/user/Stanleyhughes749)
 
