@@ -5,7 +5,7 @@
 <br />
 
 
-Live at [bearcountrypublishing.com](https://old.bearcountrypublishing.com)
+Live at [old.bearcountrypublishing.com](https://old.bearcountrypublishing.com)
 
 This is the previous source for my blog at [bearcountrypublishing.com](https://bearcountrypublishing.com)
 
