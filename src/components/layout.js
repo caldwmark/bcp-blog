@@ -26,8 +26,9 @@ const Layout = ({ location, title, children }) => {
       <main>{children}</main>
       <footer>
         <div>
-          © {new Date().getFullYear()} Bear Country Publishing
-        </div> 
+          Created by Hillbilly Mark, &copy; {new Date().getFullYear()} Bear
+          Country Publishing
+        </div>
       </footer>
     </div>
   )
