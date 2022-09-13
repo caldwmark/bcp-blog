@@ -5,9 +5,9 @@
 <br />
 
 
+Live at [bearcountrypublishing.com](https://old.bearcountrypublishing.com)
 
-This is the source for my blog at 
-[bearcountrypublishing.com](https://bearcountrypublishing.com)
+This is the previous source for my blog at [bearcountrypublishing.com](https://bearcountrypublishing.com)
 
 This blog uses a variety of technologies including gatsby and react.  It servers from what is commonly refered to as the JAMstack.  
 
